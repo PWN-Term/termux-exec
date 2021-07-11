@@ -11,11 +11,11 @@
 #include <elf.h>
 
 #ifndef TERMUX_BASE_DIR
-# define TERMUX_BASE_DIR "/data/data/com.termux/files"
+# define TERMUX_BASE_DIR "/data/data/hilled.pwnterm/files"
 #endif
 
 #ifndef TERMUX_PREFIX
-# define TERMUX_PREFIX "/data/data/com.termux/files/usr"
+# define TERMUX_PREFIX "/data/data/hilled.pwnterm/files/usr"
 #endif
 
 #ifdef __aarch64__
